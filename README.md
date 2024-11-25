@@ -1,5 +1,6 @@
 # Sistema de Gestion de Parqueaderos
 De acuerdo al diagrama de clases (UML), generado en APE - parqueadero, implementar  en un lenguaje de programación(JAVA), la solución que entregaron, tomando en cuenta lo siguiente:
+- Nombre: Carlos Josué Granda Cango
 
 Utilizar un repositorio GitHub
 - Utilizar gitflow debe tener como mínimo las ramas main(o master) y develop
