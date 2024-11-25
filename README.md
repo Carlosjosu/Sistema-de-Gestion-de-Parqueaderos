@@ -1,6 +1,9 @@
 # Sistema de Gestion de Parqueaderos
+
+### Alumno: Carlos Josué Granda Cango
+  
 De acuerdo al diagrama de clases (UML), generado en APE - parqueadero, implementar  en un lenguaje de programación(JAVA), la solución que entregaron, tomando en cuenta lo siguiente:
-- Nombre: Carlos Josué Granda Cango
+
 
 Utilizar un repositorio GitHub
 - Utilizar gitflow debe tener como mínimo las ramas main(o master) y develop
@@ -8,6 +11,9 @@ Utilizar un repositorio GitHub
 - Debe coincidir con el diagrama de clases.
 - Debe estar el diagrama de clases en el readme (debe mostrarse)
 - En caso de modificación del diagrama de clases original, especificar los principales cambio
+
+
+
 ### Diagrama UML
 Se adjunta el diagrama UML 
 
